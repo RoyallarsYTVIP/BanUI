@@ -37,7 +37,7 @@ class Main extends PluginBase implements Listener {
     							       break;																						
 						}					
 					});					
-					$form->setTitle("Ban Screen");
+					$form->setTitle("BanUI");
 					$form->setContent("Please choose who your banning.");
 					$form->addInput(TextFormat::BOLD . "Who you are banning");	
 					$form->sendToPlayer($sender);										
