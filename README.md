@@ -1,6 +1,7 @@
 # BanUI
-Staff Class!!
-A Ban'GUI plugin for Pocketmine
-For this Plugin to work you will need FormAPI heres a download link :) 
-https://github.com/jojoe77777/FormAPI
+You need FormAPI 
+commands:
+BanUI
 
+This plugin is a moderation plugin made with love
+Hope it's good 
